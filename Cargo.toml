@@ -6,6 +6,8 @@ description = "Dead Simple File Server -- The missing Rust development web serve
 license = "Unlicense"
 readme = "README.md"
 repository = "https://github.com/stnbu/dsfs"
+homepage = "https://unintuitive.org/"
+documentation = "https://github.com/stnbu/dsfs"
 edition = "2018"
 
 [dependencies]
