@@ -1,6 +1,4 @@
-# What?
-
-## dsfs -- Dead Simple File Server
+# dsfs -- Dead Simple File Server
 
 Someone recently complained to me that there is no<sup>[1](#is)</sup> simple cli http<sup>[2](#actually)</sup> file server for testing (and such) that you can just `crate install`.
 
