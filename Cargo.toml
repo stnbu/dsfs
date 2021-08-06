@@ -1,6 +1,6 @@
 [package]
 name = "dsfs"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Mike Burr <mb@unintuitive.org>"]
 description = "Dead Simple File Server -- The missing Rust development web server."
 license = "Unlicense"
@@ -11,6 +11,7 @@ documentation = "https://github.com/stnbu/dsfs"
 edition = "2018"
 
 [dependencies]
+clap = "2.33.3"
 rocket = "0.4.10"
 rocket_contrib = "0.4.10"
 
